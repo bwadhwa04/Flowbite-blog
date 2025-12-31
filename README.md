@@ -20,10 +20,3 @@ Things you may want to cover:
 - Services (job queues, cache servers, search engines, etc.)
 
 - Deployment instructions
-
-- This is change is made by `First-branchSS`
-- this change is made by second branch
-lerjdlkfgjgit
-
-this change is made by newbranch2
--add a new branch
